@@ -6,19 +6,18 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I’m a **data scientist / AI engineer** with a quantitative finance background. I love turning messy data and state‑of‑the‑art research into elegant, production‑ready solutions—especially when they sit at the intersection of **machine learning, generative AI, and financial engineering**.
 
-* 🧑‍💻 **Current:** Building an LLM‑powered inventory‑forecasting platform (TFT + LangChain) at **Ipertriscount** that cuts waste & stock‑outs while explaining its own decisions.
-* 🎓 **Education:** MSc Computational Finance (Computer Science) from **UCL** and a BA in Economics & Management from **Luiss**.
-* 🛠️ **Stack:** Python · PyTorch · JAX · LangChain · FastAPI · Streamlit · Docker · AWS/GCP · SQL/PostgreSQL · CI/CD · Git
-* 🌍 **Languages:** 🇮🇹 Italian (native), 🇬🇧 English (fluent)
-* 🧪 **Research vibes:** Physics‑Informed Neural Networks, Optimal Execution, RL for Finance
+* **Current:** Building an LLM‑powered inventory‑forecasting platform (TFT + LangChain) at **Ipertriscount** that cuts waste & stock‑outs while explaining its own decisions.
+*  **Education:** MSc Computational Finance (Computer Science) from **UCL** and a BA in Economics & Management from **Luiss**.
+* **Stack:** Python · PyTorch · JAX · LangChain · FastAPI · Streamlit · Docker · AWS/GCP · SQL/PostgreSQL · CI/CD · Git
+* **Languages:** 🇮🇹 Italian (native), 🇬🇧 English (fluent)
 
 ---
 
-### 🔥 Featured Projects
+### Featured Projects
 
 | Project                                                                                                       | What it does                                                                                                                           | Tech Highlights                                                            |
 | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
@@ -31,7 +30,7 @@ I’m a **data scientist / AI engineer** with a quantitative finance background.
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stocchifra&layout=compact&hide=jupyter%20notebook" alt="Top Langs"/>
@@ -39,7 +38,7 @@ I’m a **data scientist / AI engineer** with a quantitative finance background.
 
 ---
 
-### 📝 Latest Blog / Writing 
+### Latest Blog / Writing 
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -49,7 +48,7 @@ I’m a **data scientist / AI engineer** with a quantitative finance background.
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Francesco%20Stocchi-blue?logo=linkedin\&style=flat)](https://www.linkedin.com/in/francescostocchi)
 [![Email](https://img.shields.io/badge/Email-francescostocchi12%40gmail.com-red?logo=gmail\&style=flat)](mailto:francescostocchi12@gmail.com)
