@@ -34,8 +34,6 @@ I’m a **data scientist / AI engineer** with a quantitative finance background.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stocchifra&show_icons=true&theme=default&hide=prs,issues" alt="GitHub Stats"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stocchifra&layout=compact&hide=jupyter%20notebook" alt="Top Langs"/>
 </p>
 
