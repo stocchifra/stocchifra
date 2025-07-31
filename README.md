@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Francesco Stocchi 👋</h1>
+<h1 align="center">Hi, I'm Francesco Stocchi 👋</h1>
 
 <p align="center">
   <em>Data Scientist & AI Engineer · MSc Computational Finance @ UCL · London, UK</em>
